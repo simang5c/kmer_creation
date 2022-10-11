@@ -18,7 +18,7 @@ R version >= 4.0
 5.seqRFLP
 6.stringr
 
-#Input: Fasta Files. 
+# Input: Fasta Files. 
 
 For example you have fasta files of 4 Fungal proteins:
 
@@ -27,4 +27,4 @@ For example you have fasta files of 4 Fungal proteins:
 3. Trichoderma_atroviridae.fasta
 4. Candida.fasta
 
-#Output: final_"user_supplied_kmerlength"_mer_count.txt
+# Output: final_"user_supplied_kmerlength"_mer_count.txt
