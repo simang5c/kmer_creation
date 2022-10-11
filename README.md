@@ -10,7 +10,6 @@ Rscript kmer_create.R size_of_kmer_length_you_want_to_create
 R version >= 4.0
 
 # R Libraries
-
 1.Biostrings
 2.dplyr
 3.doParallel
@@ -21,10 +20,10 @@ R version >= 4.0
 # Input: Fasta Files. 
 
 For example you have fasta files of 4 Fungal proteins:
-
 1. Yeast.fasta
 2. Armillaria_ostoyae.fasta
 3. Trichoderma_atroviridae.fasta
 4. Candida.fasta
 
-# Output: final_"user_supplied_kmerlength"_mer_count.txt
+# Output: 
+final_"user_supplied_kmerlength"_mer_count.txt
