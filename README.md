@@ -8,6 +8,7 @@ Rscript kmer_create.R size_of_kmer_length_you_want_to_create
 
 #Dependencies:
 R version >= 4.0
+
 # Libraries
 1.Biostrings
 2.dplyr
