@@ -147,7 +147,6 @@ kmergeneration<-function(folder_list, kmersize){
 }
 
 #setting number of cores to be used for processing
-numCores <- detectCores()
 numCores <- detectCores() - 2  
 registerDoParallel(cores=numCores)  
 cl <- makeCluster(numCores, type="FORK")
